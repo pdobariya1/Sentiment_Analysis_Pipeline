@@ -7,7 +7,7 @@
 ## Project Setup
 1. **Clone this repository**
 ```bash
-https://github.com/pdobariya1/Sentiment_Analysis_Pipeline.git
+git clone https://github.com/pdobariya1/Sentiment_Analysis_Pipeline.git
 ```
 
 2. **Change directory**
