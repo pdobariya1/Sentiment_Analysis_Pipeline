@@ -1,0 +1,7 @@
+ipykernel
+datasets
+db-sqlite3
+wordcloud
+scikit-learn
+Flask
+-e .
