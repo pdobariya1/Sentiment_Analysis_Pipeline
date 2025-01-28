@@ -27,7 +27,7 @@ conda activate ./{env_name}
 
 5. **Install dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt --use-pep517
 ```
 
 6. **Run the Flask server**
